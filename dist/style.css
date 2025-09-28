@@ -1,8 +1,32 @@
 h1{
-  border-color: #d3e644;
-  border-style: dashed;
+  padding: 5px;
+  font-family: Arial;
+  font-size: 24px;
+  color: white;
+  background-color: red;
 }
 
+#author-name-and-date {
+  font-family: 'Times New Roman';
+  font-size: 16px;
+  color: gray;
+}
+
+img {
+  width: 300px;
+}
+
+p, ol {
+  font-family: 'Times New Roman';
+  font-size: 16px;
+  color: darkslategray;
+}
+
+a {
+  font-family: Arial;
+  font-size: 16px;
+  color: blue;
+}
 table {
   border-collapse: collapse;
   width: 100%;
